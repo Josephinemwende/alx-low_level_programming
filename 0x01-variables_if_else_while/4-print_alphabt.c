@@ -10,8 +10,8 @@ int main(void)
 {
 	char alphabet;
 
-	e = 'e'
-	q = 'q'
+	e = 'e';
+	q = 'q';
 
 	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 	{
