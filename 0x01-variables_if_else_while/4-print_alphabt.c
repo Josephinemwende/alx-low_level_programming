@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	char alphabet;
+	char alphabet, e, q;
 
 	e = 'e';
 	q = 'q';
