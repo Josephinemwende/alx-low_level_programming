@@ -1,13 +1,19 @@
 #include <unistd.h>
 #include <stdio.h>
+#include "main.h"
 /**
- * _putchar - writes the character x to standard ouput
- * @x: The character to print
- *
- * Return: On success 1.
- * On error, -1 is returned, and errno is set appropriately.
+ * main - check description
+ * It prints the word _putchar
+ * Return: 0.
  */
-int _putchar(char x)
+int main void(void)
 {
-	return (write(1, &x, 1));
+	char x[8] = "_putchar";
+	int y;
+
+	for (y = 0; y < 8; y++)
+		putchar(x[y]);
+	putchar('\n');
+
+	return (0);
 }
