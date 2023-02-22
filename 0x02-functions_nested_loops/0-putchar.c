@@ -6,7 +6,7 @@
  * It prints the word _putchar
  * Return: 0.
  */
-int main void(void)
+int main; void (void)
 {
 	char x[8] = "_putchar";
 	int y;
