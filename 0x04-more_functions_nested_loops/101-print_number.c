@@ -28,7 +28,7 @@ void print_number(int n)
 
 void print_integer(int x)
 {
-	int a = 1000;
+	int a = 1000000000;
 
 	for (; a >= 1; a /= 10)
 		if (x / a != 0)
