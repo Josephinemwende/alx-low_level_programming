@@ -13,7 +13,7 @@ int _islower(int c)
 	char x;
 	int y = 0;
 
-	for (x = 'a'; i <= 'z'; x++)
+	for (x = 'a'; x <= 'z'; x++)
 	{
 		if (x == c)
 			y = 1;
