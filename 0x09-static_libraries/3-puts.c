@@ -7,7 +7,7 @@
  * Return: Nothing
  */
 
-void _puts(char *str)
+void _puts(char *s)
 {
 	int x = 0;
 
